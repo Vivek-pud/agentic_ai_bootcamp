@@ -17,3 +17,4 @@ tweepy
 langchain_google_genai
 faiss-cpu
 langchain-pinecone
+langgraph
