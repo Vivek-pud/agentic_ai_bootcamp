@@ -18,3 +18,5 @@ langchain_google_genai
 faiss-cpu
 langchain-pinecone
 langgraph
+chromadb
+langchain-chroma
